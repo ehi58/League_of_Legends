@@ -4,6 +4,8 @@ Inspired by 'Defense of the Ancients', the game follows a freemium model. The ga
 The dataset displays results of 50,000 ranked games played in EUW region. 
 Ranked games places an user in certain categories(Challenger,Diamond, Platinum, Gold, Silver, & Bronze).
 
+https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9c/Summoner%27s_Rift_LoL_Promo_01.png/revision/latest?cb=20200313145534
+
 ## DATA
 I used data consisting of 1 csv file & 3 json file
     *Game ID
